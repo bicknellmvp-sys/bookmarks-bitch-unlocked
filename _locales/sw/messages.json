@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Kidhibiti kizuri cha alamisho cha kuburuta na kudondosha kinachochukua nafasi ya ukurasa wako mpya wa kichupo."
+   },
+   "extensionName": {
+      "message": "LumiList - Kidhibiti Mahiri cha Alamisho"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Hifadhi haraka ukurasa wa sasa kwenye LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Hifadhi Haraka kwenye LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

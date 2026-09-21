@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Kaunis vedä ja pudota -kirjanmerkkien hallinta, joka korvaa uuden välilehden sivun."
+   },
+   "extensionName": {
+      "message": "LumiList - Älykäs kirjanmerkkien hallinta"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Tallenna nykyinen sivu nopeasti LumiListiin"
+   },
+   "quickSaveTitle": {
+      "message": "Pikatallennus LumiListiin (Ctrl/Cmd+Shift+Y)"
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Жаңа қойынды бетіңізді алмастыратын әдемі, сүйреп апаруға болатын бетбелгі менеджері."
+   },
+   "extensionName": {
+      "message": "LumiList - Ақылды Бетбелгі Менеджері"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Ағымдағы бетті LumiList жүйесіне жылдам сақтау"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList жүйесіне жылдам сақтау (Ctrl/Cmd+Shift+Y)"
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Yangi sahifa oʻrnini bosuvchi, chiroyli va qulay xatchoʻp boshqaruvchisi."
+   },
+   "extensionName": {
+      "message": "LumiList - Aqlli Xatchoʻp Boshqaruvchisi"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Joriy sahifani LumiList ga tez saqlash"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList ga tez saqlash (Ctrl/Cmd+Shift+Y)"
+   }
+}

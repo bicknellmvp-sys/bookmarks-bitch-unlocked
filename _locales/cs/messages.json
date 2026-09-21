@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Krásný správce záložek s funkcí přetažení, který nahrazuje stránku nové karty."
+   },
+   "extensionName": {
+      "message": "LumiList - Chytrý správce záložek"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Rychle uložit aktuální stránku do LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Rychle uložit do LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "మీ కొత్త ట్యాబ్ పేజీని భర్తీ చేసే అందమైన, డ్రాగ్ అండ్-డ్రాప్ బుక్ మార్క్ మేనేజర్."
+   },
+   "extensionName": {
+      "message": "LumiList - స్మార్ట్ బుక్ మార్క్ మేనేజర్"
+   },
+   "quickSaveCommandDescription": {
+      "message": "ప్రస్తుత పేజీని LumiList కు త్వరితగతిన సేవ్ చేయండి"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList కు శీఘ్ర సేవ్ (Ctrl/cmd+Shift+Y)"
+   }
+}

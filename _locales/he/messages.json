@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "מנהל סימניות יפהפה, שמאפשר גרירה ושחרור, שמחליף את דף הלשונית החדש שלך."
+   },
+   "extensionName": {
+      "message": "LumiList - מנהל סימניות חכם"
+   },
+   "quickSaveCommandDescription": {
+      "message": "שמירה מהירה של הדף הנוכחי LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "שמירה מהירה ל- LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

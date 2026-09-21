@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "مدير إشارات مرجعية جميل يحل محل صفحة التبويب الجديدة الخاصة بك."
+   },
+   "extensionName": {
+      "message": "LumiList - مدير العلامات المرجعية الذكية"
+   },
+   "quickSaveCommandDescription": {
+      "message": "حفظ الصفحة الحالية بسرعة إلى LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "حفظ سريع إلى LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

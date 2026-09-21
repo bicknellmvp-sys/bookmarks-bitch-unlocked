@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Egy gyönyörű, húzható könyvjelző-kezelő, amely helyettesíti az új füllapodat."
+   },
+   "extensionName": {
+      "message": "LumiList – Intelligens könyvjelzőkezelő"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Gyors mentés az aktuális oldalról LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Gyors mentés LumiList -re (Ctrl/Cmd+Shift+Y)"
+   }
+}

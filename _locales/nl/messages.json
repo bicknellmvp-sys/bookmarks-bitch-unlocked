@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Een mooie bladwijzerbeheerder met slepen en neerzetten die je nieuwe-tabbladpagina vervangt."
+   },
+   "extensionName": {
+      "message": "LumiList - Slimme bladwijzerbeheerder"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Huidige pagina snel opslaan in LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Quick Save naar LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

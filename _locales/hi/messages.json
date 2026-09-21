@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "एक सुंदर drag-and-drop बुकमार्क मैनेजर, जो आपके नए टैब पेज की जगह लेता है."
+   },
+   "extensionName": {
+      "message": "LumiList - स्मार्ट बुकमार्क मैनेजर"
+   },
+   "quickSaveCommandDescription": {
+      "message": "मौजूदा पेज को जल्दी LumiList में सेव करें"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList में Quick Save (Ctrl/Cmd+Shift+Y)"
+   }
+}

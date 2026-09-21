@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Trình quản lý dấu trang đẹp mắt với tính năng kéo thả, thay thế trang tab mới của bạn."
+   },
+   "extensionName": {
+      "message": "LumiList - Trình quản lý dấu trang thông minh"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Lưu nhanh trang hiện tại vào LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Lưu nhanh vào LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

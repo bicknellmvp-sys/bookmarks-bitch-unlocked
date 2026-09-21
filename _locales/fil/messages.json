@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Isang maganda, drag-and-drop bookmark manager na pumapalit sa iyong bagong pahina ng tab."
+   },
+   "extensionName": {
+      "message": "LumiList - Matalinong Bookmark Manager"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Mabilis na i-save ang kasalukuyang pahina sa LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Mabilis na I-save sa LumiList (Ctrl / Cmd + Shift + Y)"
+   }
+}

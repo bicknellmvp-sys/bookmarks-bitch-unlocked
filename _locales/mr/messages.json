@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "एक सुंदर, ड्रॅग-अँड-ड्रॉप बुकमार्क व्यवस्थापक जो आपल्या नवीन टॅब पृष्ठाची जागा घेतो."
+   },
+   "extensionName": {
+      "message": "LumiList - स्मार्ट बुकमार्क व्यवस्थापक"
+   },
+   "quickSaveCommandDescription": {
+      "message": "सद्य पानावर त्वरित जतन करा LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList वर द्रुत जतन करा (Ctrl/Cmd+Shift+Y)"
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Un manager frumos de marcaje, cu drag-and-drop, care înlocuiește noua ta pagină de filă."
+   },
+   "extensionName": {
+      "message": "LumiList - Manager inteligent de semne de carte"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Salvează rapid pagina curentă la LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Salvare rapidă pe LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

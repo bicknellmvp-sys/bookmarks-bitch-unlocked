@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "LumiList - ස්මාර්ට් පිටු සලකුණු කළමනාකරු"
+  },
+  "extensionDescription": {
+    "message": "ඔබගේ නව ටැබ් පිටුව ප්‍රතිස්ථාපනය කරන, අලංකාර, ඇදගෙන යා හැකි පිටු සලකුණු කළමනාකරුවෙකි."
+  },
+  "quickSaveTitle": {
+    "message": "LumiList වෙත ඉක්මන් සුරැකීම (Ctrl/Cmd+Shift+Y)"
+  },
+  "quickSaveCommandDescription": {
+    "message": "වත්මන් පිටුව LumiList වෙත ඉක්මනින් සුරකින්න"
+  }
+}

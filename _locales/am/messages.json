@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "አዲስ የትር ገጽዎን የሚተካ ውብ፣ በመጎተት እና በመጣል የሚሰራ የዕልባት አስተዳዳሪ።"
+   },
+   "extensionName": {
+      "message": "LumiList - ብልህ ዕልባት አስተዳዳሪ"
+   },
+   "quickSaveCommandDescription": {
+      "message": "የአሁኑን ገጽ ወደ LumiList በፍጥነት ያስቀምጡ"
+   },
+   "quickSaveTitle": {
+      "message": "ፈጣን ማስቀመጥ ወደ LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

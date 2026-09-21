@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "ドラッグ＆ドロップで使える、美しい新しいタブ用ブックマーク管理ツールです。"
+   },
+   "extensionName": {
+      "message": "LumiList - スマートブックマーク管理"
+   },
+   "quickSaveCommandDescription": {
+      "message": "現在のページを LumiList にすばやく保存"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList に Quick Save（Ctrl/Cmd+Shift+Y）"
+   }
+}

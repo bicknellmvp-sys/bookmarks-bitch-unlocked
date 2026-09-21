@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "ایک خوبصورت، ڈریگ اینڈ ڈراپ بک مارک مینیجر جو آپ کے نئے ٹیب پیج کی جگہ لے لیتا ہے۔"
+   },
+   "extensionName": {
+      "message": "LumiList - اسمارٹ بک مارک مینیجر"
+   },
+   "quickSaveCommandDescription": {
+      "message": "موجودہ صفحہ کو فوری طور پر محفوظ LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList پر فوری سیو کریں (Ctrl/Cmd+Shift+Y)"
+   }
+}

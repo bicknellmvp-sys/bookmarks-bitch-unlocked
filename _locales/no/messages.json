@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "En vakker, dra-og-slipp bokmerkebehandler som erstatter den nye fanesiden din."
+   },
+   "extensionName": {
+      "message": "LumiList - Smart bokmerkeadministrator"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Rask lagring av nåværende side til LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Hurtiglagring til LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

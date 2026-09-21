@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "یک مدیر بوکمارک زیبا با کشیدن و رها کردن که جایگزین صفحه تب جدید شما می شود."
+   },
+   "extensionName": {
+      "message": "LumiList - مدیر بوکمارک هوشمند"
+   },
+   "quickSaveCommandDescription": {
+      "message": "صفحه فعلی را سریع ذخیره LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "ذخیره سریع در LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "一款美观的拖放式书签管理器，可替换您的新标签页。"
+   },
+   "extensionName": {
+      "message": "LumiList - 智能书签管理器"
+   },
+   "quickSaveCommandDescription": {
+      "message": "将当前页面快速保存到 LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "快速保存到 LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

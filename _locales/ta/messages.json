@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "உங்கள் புதிய தாவல் பக்கத்தை மாற்றும் அழகான, இழுத்து விடுதல் புக்மார்க் மேலாளர்."
+   },
+   "extensionName": {
+      "message": "LumiList - ஸ்மார்ட் புக்மார்க் மேலாளர்"
+   },
+   "quickSaveCommandDescription": {
+      "message": "தற்போதைய பக்கத்தை விரைவாகச் சேமிக்கவும் LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "விரைவான சேமி LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Ένας όμορφος διαχειριστής σελιδοδεικτών μεταφοράς και απόθεσης που αντικαθιστά τη σελίδα της νέας καρτέλας σας."
+   },
+   "extensionName": {
+      "message": "LumiList - Έξυπνος διαχειριστής σελιδοδεικτών"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Γρήγορη αποθήκευση της τρέχουσας σελίδας σε LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Γρήγορη αποθήκευση σε LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

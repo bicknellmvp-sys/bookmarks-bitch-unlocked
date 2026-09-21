@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Um gerenciador de favoritos bonito com arrastar e soltar que substitui a página de nova guia."
+   },
+   "extensionName": {
+      "message": "LumiList - Gerenciador inteligente de favoritos"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Salve rapidamente a página atual no LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Salvamento rápido no LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

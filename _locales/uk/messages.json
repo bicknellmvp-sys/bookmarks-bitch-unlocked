@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Красивий менеджер закладок із перетягуванням і відпускання, який замінює вашу нову сторінку вкладки."
+   },
+   "extensionName": {
+      "message": "LumiList - Розумний менеджер закладок"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Швидке збереження поточної сторінки LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Швидке збереження на LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

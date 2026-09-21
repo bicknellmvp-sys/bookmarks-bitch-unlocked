@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Przejrzysty menedżer zakładek z przeciąganiem i upuszczaniem, który zastępuje stronę nowej karty."
+   },
+   "extensionName": {
+      "message": "LumiList - Inteligentny menedżer zakładek"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Szybko zapisz bieżącą stronę w LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Szybki zapis w LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

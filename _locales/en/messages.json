@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "A beautiful, drag-and-drop bookmark manager that replaces your new tab page."
+   },
+   "extensionName": {
+      "message": "LumiList - Smart Bookmark Manager"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Quick save current page to LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Quick Save to LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

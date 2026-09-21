@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Pengurus penanda halaman seret dan lepas yang cantik yang menggantikan halaman tab baharu anda."
+   },
+   "extensionName": {
+      "message": "LumiList - Pengurus Penanda Halaman Pintar"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Simpan halaman semasa dengan cepat ke LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Simpan Pantas ke LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

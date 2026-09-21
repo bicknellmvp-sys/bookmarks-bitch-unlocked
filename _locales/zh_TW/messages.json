@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "一個漂亮的拖放書籤管理器，能取代你的新分頁頁面。"
+   },
+   "extensionName": {
+      "message": "LumiList - 智慧書籤管理器"
+   },
+   "quickSaveCommandDescription": {
+      "message": "快速儲存目前頁面到 LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "快速存檔到 LumiList （Ctrl/Cmd+Shift+Y）"
+   }
+}

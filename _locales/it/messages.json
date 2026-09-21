@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Un elegante gestore di segnalibri con trascinamento che sostituisce la pagina Nuova scheda."
+   },
+   "extensionName": {
+      "message": "LumiList - Gestore intelligente dei segnalibri"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Salva rapidamente la pagina corrente in LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Salvataggio rapido in LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

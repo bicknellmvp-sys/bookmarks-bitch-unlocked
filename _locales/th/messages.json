@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "เครื่องมือจัดการบุ๊กมาร์กแบบลากและวางที่สวยงาม ซึ่งมาแทนที่หน้าแท็บใหม่ของคุณ"
+   },
+   "extensionName": {
+      "message": "LumiList - ผู้จัดการบุ๊กมาร์กอัจฉริยะ"
+   },
+   "quickSaveCommandDescription": {
+      "message": "บันทึกหน้าปัจจุบันไปยัง LumiList อย่างรวดเร็ว"
+   },
+   "quickSaveTitle": {
+      "message": "บันทึกด่วนไปยัง LumiList (Ctrl/Cmd+Shift+Y)"
+   }
+}

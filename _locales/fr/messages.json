@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Un beau gestionnaire de favoris par glisser-déposer qui remplace votre nouvel onglet."
+   },
+   "extensionName": {
+      "message": "LumiList - Gestionnaire de favoris intelligent"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Enregistrer rapidement la page actuelle dans LumiList"
+   },
+   "quickSaveTitle": {
+      "message": "Quick Save vers LumiList (Ctrl/Cmd+Maj+Y)"
+   }
+}

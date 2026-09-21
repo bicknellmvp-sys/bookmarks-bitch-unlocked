@@ -1,0 +1,14 @@
+{
+   "extensionDescription": {
+      "message": "Yeni sekme sayfanızın yerini alan, sürükle-bırak özellikli şık bir yer işareti yöneticisi."
+   },
+   "extensionName": {
+      "message": "LumiList - Akıllı Yer İşareti Yöneticisi"
+   },
+   "quickSaveCommandDescription": {
+      "message": "Geçerli sayfayı hızlıca LumiList'e kaydet"
+   },
+   "quickSaveTitle": {
+      "message": "LumiList'e Hızlı Kaydet (Ctrl/Cmd+Shift+Y)"
+   }
+}
