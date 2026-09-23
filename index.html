@@ -36,6 +36,8 @@
     <script defer src="newtab/workspace/render.js"></script>
     <script defer src="newtab/workspace/drag-drop.js"></script>
     <script defer src="newtab/flows/trash.js"></script>
+    <script defer src="newtab/workspace/import-helper.js"></script>
+    <script defer src="newtab/workspace/bookmark-context.js"></script>
     <script defer src="newtab.js"></script>
     <!-- Supabase JS Library (bundled locally for CSP compliance) -->
     <script defer src="lib/supabase.js"></script>
@@ -304,12 +306,30 @@
                         data-i18n-placeholder="board.descriptionPlaceholder"></textarea>
                 </div>
 
+                <!-- Interactive Import Rule Container -->
+                <div id="addBoardImportContainer"></div>
+
                 <div class="modal-buttons">
                     <button type="button" class="btn btn-secondary" id="cancelBoardBtn"
                         data-i18n="common.cancel">Cancel</button>
                     <button type="submit" class="btn btn-primary" data-i18n="board.createButton">Create Board</button>
                 </div>
             </form>
+        </div>
+    </div>
+
+    <!-- Modal for importing bookmarks into an existing board -->
+    <div class="modal-overlay" id="importIntoBoardModal">
+        <div class="modal" style="max-width: 500px;">
+            <h3 id="importIntoBoardTitle">Import Links to Board</h3>
+            <p style="color: var(--ll-text-faint); margin-bottom: 12px; font-size: 13px;" id="importIntoBoardSubtitle">Choose stored bookmarks to import into this board:</p>
+            <div id="importIntoBoardContainer"></div>
+            <div class="modal-buttons" style="margin-top: 18px;">
+                <button type="button" class="btn btn-secondary" id="cancelImportIntoBoardBtn"
+                    data-i18n="common.cancel">Cancel</button>
+                <button type="button" class="btn btn-primary" id="confirmImportIntoBoardBtn"
+                    data-i18n="common.importSelected">Import Links</button>
+            </div>
         </div>
     </div>
 
@@ -609,6 +629,15 @@
                 <line x1="10.88" y1="21.94" x2="15.46" y2="14" />
             </svg>
             <span data-i18n="import.browserBookmarks">Import Browser Bookmarks</span>
+        </button>
+        <div class="import-popup-divider"></div>
+        <button class="import-popup-item" id="importStoredBookmarksPopupBtn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                aria-hidden="true">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+            </svg>
+            <span>Import Stored Bookmarks (Single / Folder / All)</span>
         </button>
         <div class="import-popup-divider"></div>
         <button class="import-popup-item" id="importLinksPopupBtn">

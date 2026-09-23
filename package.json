@@ -1,0 +1,15 @@
+{
+  "name": "bookmarks-bitch-unlocked",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart, offline-first visual bookmark manager with drag-and-drop boards, customizable themes, wallpapers, and instant search.",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Build complete'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
